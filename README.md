@@ -1,6 +1,6 @@
 <!-- MasterHead -->
 <a href="https://github.com/SergeyHolopovS/SergeyHolopovS/blob/main/fallout.gif">
-  <img src="https://github.com/SergeyHolopovS/SergeyHolopovS/blob/main/fallout.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+  <img style="height: 300px; object-fit: cover;" src="https://github.com/SergeyHolopovS/SergeyHolopovS/blob/main/fallout.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
 </a>
 
 <!-- Greeting -->
@@ -31,7 +31,7 @@ As I embark on this new academic journey, I am eager to explore various dimensio
 </div>
 
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="coding-gif" width="450" src="https://github.com/SergeyHolopovS/SergeyHolopovS/blob/main/gitgif.gif">
+<img align="right" alt="coding-gif" width="450" src="https://github.com/SergeyHolopovS/SergeyHolopovS/blob/main/transparent_gitgif.gif">
 
 <!-- about me -->
  <h3 align="left">💫 About Me</h3>
