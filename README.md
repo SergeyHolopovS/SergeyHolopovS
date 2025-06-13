@@ -1,6 +1,6 @@
 <!-- MasterHead -->
 <a href="https://github.com/SergeyHolopovS/SergeyHolopovS/blob/main/fallout.gif">
-  <img style="height: 300px; object-fit: cover;" src="https://github.com/SergeyHolopovS/SergeyHolopovS/blob/main/fallout.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+  <img style="height: 300px; object-fit: cover; width: full;" src="https://github.com/SergeyHolopovS/SergeyHolopovS/blob/main/fallout.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
 </a>
 
 <!-- Greeting -->
