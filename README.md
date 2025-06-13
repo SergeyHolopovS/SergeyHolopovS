@@ -31,7 +31,7 @@ As I embark on this new academic journey, I am eager to explore various dimensio
 </div>
 
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="coding-gif" width="450" src="https://github.com/SegeyHolopovS/SergeyHolopovS/blob/main/gitgif.gif">
+<img align="right" alt="coding-gif" width="450" src="https://github.com/SergeyHolopovS/SergeyHolopovS/blob/main/gitgif.gif">
 
 <!-- about me -->
  <h3 align="left">💫 About Me</h3>
