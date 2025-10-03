@@ -7,7 +7,7 @@
 </h1>
 <h1 align="center">Namaste 🙏 I'm Sergey Holopov</h1>
 
-<h4 align="left">🌟I am Sergey Kholopov, and I have recently graduated from high school. I am excited to be enrolling at Saint Petersburg State University of Telecommunications, where I aim to deepen my knowledge and skills in the field of technology. I am actively engaged in web development, focusing on both frontend and backend aspects.
+<h4 align="left">🌟I am Sergey Kholopov. I am a student of Saint-Petersburg State Marine Technical University. I am actively engaged in web development, focusing on both frontend and backend aspects.
 <br/><br/>
 As I embark on this new academic journey, I am eager to explore various dimensions of the IT industry. I am particularly interested in emerging technologies and trends that shape our digital landscape. My ultimate goal is to build a successful career in web development, where I can contribute to innovative projects and continuously enhance my expertise. I look forward to the opportunities that lie ahead and am committed to making the most of my educational experience.</h4>
 
