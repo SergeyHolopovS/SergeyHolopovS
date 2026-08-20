@@ -54,13 +54,6 @@ As I embark on this new academic journey, I am eager to explore various dimensio
 
 </div>
 <br/>
-
-<!-- git stat-->
-<h3 align="center">🌱 Github Status</h3>
-<br>
-<div align="center">
-  <img width="435" src="https://github-readme-stats.vercel.app/api?username=SergeyHolopovS&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10"/>
-  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyHolopovS&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
@@ -78,17 +71,5 @@ As I embark on this new academic journey, I am eager to explore various dimensio
     <img src="https://skillicons.dev/icons?i=rust,nginx,python,java,githubactions,python,javascript,ts,pnpm" /><br>
     <img src="https://skillicons.dev/icons?i=vite,styledcomponents,nextjs,bots,htmx,tailwind,react,nodejs,redux" /><br>
 </div>
-
-<br/>
-
-<!-- top repo and teck stack-->
-<div align="center">
-  <h3>⭐️ Best Repositories</h3>
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/SergeyHolopovS/Allitta">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=SergeyHolopovS&repo=Allitta&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
-</div>
-
-<!-- ending-->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
