@@ -1,5 +1,5 @@
 <a href="https://sergeyholopov.ru/">
-  <img src="./assets/profile.svg" width="1120" alt="Сергей Холопов, fullstack-разработчик из Санкт-Петербурга. TypeScript и Kotlin.">
+  <img src="./profile.svg" width="1120" alt="Сергей Холопов, fullstack-разработчик из Санкт-Петербурга. TypeScript и Kotlin.">
 </a>
 
 # Сергей Холопов
@@ -8,16 +8,17 @@
 
 Делаю веб-приложения от интерфейса до сервера. Пишу на TypeScript и Kotlin: на клиенте работаю с React, Next.js, Vue и Nuxt, на сервере — со Spring Boot.
 
-[Портфолио](https://sergeyholopov.ru/) · [Telegram](https://t.me/Sergey_Holopov) · [Почта](mailto:gssdsudas@gmail.com)
+**Мой сайт:** [sergeyholopov.ru](https://sergeyholopov.ru/) · [Telegram](https://t.me/Sergey_Holopov) · [Почта](mailto:gssdsudas@gmail.com)
 
 ## 01 / Сейчас
 
-- **FluffyRP.** Веду фронтенд сайта Minecraft-сервера от вёрстки и интеграции с API до релизов. Работаю над личным кабинетом со скинами, форумом с модерацией, переводами между игроками и админ-панелью с доступом по ролям.
+- **ЦКБ «Айсберг».** Работаю инженером-программистом.
+- **TXA Technologies.** Руковожу направлением программирования.
 - **СПбГМТУ.** Учусь на бакалавриате на факультете цифровых промышленных технологий.
 
 ## 02 / Проекты
 
-- **[FluffyRP](https://fluffyrp.com/) · Frontend.** Разработка и поддержка сайта Minecraft-сервера по частному заказу.
+- **[FluffyRP](https://fluffyrp.com/) · Frontend.** Работал над фронтендом сайта Minecraft-сервера по частному заказу.
 - **[CineNetwork](https://github.com/CineNetwork/Frontend) · Fullstack.** Отвечал за SSR-фронтенд на Next.js: каталог, страницы тайтлов, плеер и личный кабинет. Участвовал в разработке сервисов Anime и Auth.
 - **[Payly](https://github.com/SergeyHolopovS/payly-kotlin) · Backend.** Платёжный шлюз с симулятором эквайера, отменой платежей и частичными возвратами. Реализовал идемпотентность через Redis, transactional outbox с Kafka и подписанные вебхуки с повторными попытками доставки. Метрики в Prometheus и Grafana, интеграционные тесты с Testcontainers.
 - **[EasyGuide](https://github.com/SergeyHolopovS/easyguide-nuxtjs) · Frontend.** Платформа бронирования экскурсий на Nuxt 4 с SSR и фильтрами в URL. Обновление JWT между вкладками координируется через Web Locks API.
