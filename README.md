@@ -1,75 +1,45 @@
-<!-- MasterHead -->
-<a href="https://github.com/SergeyHolopovS/SergeyHolopovS/blob/main/fallout.gif">
-  <img style="height: 300px; object-fit: cover; width: 100%;" src="https://github.com/SergeyHolopovS/SergeyHolopovS/blob/main/fallout.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+<a href="https://sergeyholopov.ru/">
+  <img src="./assets/profile.svg" width="1120" alt="Сергей Холопов, fullstack-разработчик из Санкт-Петербурга. TypeScript и Kotlin.">
 </a>
 
-<!-- Greeting -->
-</h1>
-<h1 align="center">Namaste 🙏 I'm Sergey Holopov</h1>
+# Сергей Холопов
 
-<h4 align="left">🌟I am Sergey Kholopov. I am a student of Saint-Petersburg State Marine Technical University. I am actively engaged in web development, focusing on both frontend and backend aspects.
-<br/><br/>
-As I embark on this new academic journey, I am eager to explore various dimensions of the IT industry. I am particularly interested in emerging technologies and trends that shape our digital landscape. My ultimate goal is to build a successful career in web development, where I can contribute to innovative projects and continuously enhance my expertise. I look forward to the opportunities that lie ahead and am committed to making the most of my educational experience.</h4>
+**Fullstack-разработчик · Санкт-Петербург**
 
- <div align="center">
-<!-- Profile Views -->
-<a href="https://github.com/SergeyHolopovS" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=SergeyHolopovS&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
-       alt="Profile Views Badge" /></a>
+Делаю веб-приложения от интерфейса до сервера. Пишу на TypeScript и Kotlin: на клиенте работаю с React, Next.js, Vue и Nuxt, на сервере — со Spring Boot.
 
-<!-- Total Stars with GitHub Logo -->
-<a href="https://github.com/SergeyHolopovS?tab=repositories&sort=stargazers" target="_blank">
-  <img alt="Total Stars" title="Total stars on GitHub"
-       src="https://img.shields.io/github/stars/SergeyHolopovS?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
+[Портфолио](https://sergeyholopov.ru/) · [Telegram](https://t.me/Sergey_Holopov) · [Почта](mailto:gssdsudas@gmail.com)
 
-<!-- Followers with GitHub Logo -->
-<a href="https://github.com/SergeyHolopovS?tab=followers" target="_blank">
-  <img alt="Followers" title="Follow me on GitHub"
-       src="https://img.shields.io/github/followers/SergeyHolopovS?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
-</a>
+## 01 / Сейчас
 
-</div>
+- **FluffyRP.** Веду фронтенд сайта Minecraft-сервера от вёрстки и интеграции с API до релизов. Работаю над личным кабинетом со скинами, форумом с модерацией, переводами между игроками и админ-панелью с доступом по ролям.
+- **СПбГМТУ.** Учусь на бакалавриате на факультете цифровых промышленных технологий.
 
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="coding-gif" width="450" src="https://github.com/SergeyHolopovS/SergeyHolopovS/blob/main/transparent_gitgif.gif">
+## 02 / Проекты
 
-<!-- about me -->
- <h3 align="left">💫 About Me</h3>
+- **[FluffyRP](https://fluffyrp.com/) · Frontend.** Разработка и поддержка сайта Minecraft-сервера по частному заказу.
+- **[CineNetwork](https://github.com/CineNetwork/Frontend) · Fullstack.** Отвечал за SSR-фронтенд на Next.js: каталог, страницы тайтлов, плеер и личный кабинет. Участвовал в разработке сервисов Anime и Auth.
+- **[Payly](https://github.com/SergeyHolopovS/payly-kotlin) · Backend.** Платёжный шлюз с симулятором эквайера, отменой платежей и частичными возвратами. Реализовал идемпотентность через Redis, transactional outbox с Kafka и подписанные вебхуки с повторными попытками доставки. Метрики в Prometheus и Grafana, интеграционные тесты с Testcontainers.
+- **[EasyGuide](https://github.com/SergeyHolopovS/easyguide-nuxtjs) · Frontend.** Платформа бронирования экскурсий на Nuxt 4 с SSR и фильтрами в URL. Обновление JWT между вкладками координируется через Web Locks API.
+- **[PickMe](https://github.com/PickMeApp/mini-app) · Fullstack.** Telegram Mini App на React и TypeScript. Написал клиент и сервер, подключил авторизацию через Telegram `initData` и настроил деплой через GitHub Actions.
+- **[EukoLand](https://github.com/EukoLand/frontend-react) · Frontend.** React SPA для игрового проекта с личным кабинетом. Для серверного состояния использовал TanStack Query, для состояния интерфейса — Zustand.
+- **[Allitta](https://github.com/SergeyHolopovS/Allitta) · Frontend.** React-приложение с админкой, авторизацией, формами и загрузкой файлов через REST API. Окружение в Docker.
 
-<h4> 
-  🌱 I am currently working on and developing my programming skills.</br>
- 🔭 I worked on React, Spring and Next projects.</br>
- 💬 Skills I acquire in programming languages such as Typescript, Java, Rust.</br>
- ⚡ Interest in FrontEnd, BackEnd, Linux hardware.</br>
- ✨ I only like speed.</h4> <div align="left">
+<details>
+<summary>Учебные и небольшие проекты</summary>
 
-  <h3>🧲 Connect me :</h3>
-<a href="mailto:gssdsudas@gmail.com">
-  <img width="60px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a>
-  <a href="https://t.me/Sergey_Holopov">
-  <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Telegram_logo_icon.svg" alt="Telegram" /></a>
-</div>
+- [nuxt-blog](https://github.com/SergeyHolopovS/nuxt-blog) и [vue-todos](https://github.com/SergeyHolopovS/vue-todos) — SSR-блог и задачник на Vue.
+- [giftis-react](https://github.com/SergeyHolopovS/giftis-react) и [giftis-kotlin](https://github.com/SergeyHolopovS/giftis-kotlin) — веб-клиент и API.
+- [authexample](https://github.com/SergeyHolopovS/authexample) и [konews](https://github.com/SergeyHolopovS/konews) — JWT-авторизация и агрегатор новостей.
+- [CryptoCheck](https://github.com/SergeyHolopovS/CryptoCheck) и [discord-stats-bot](https://github.com/SergeyHolopovS/discord-stats-bot) — курсы криптовалют и статистика Discord.
 
-</h4>
+</details>
 
-</div>
-<br/>
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
-</div>
+## 03 / Стек
 
-<br/><br/>
-
-<!-- lang-->
-<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
-
-<br/>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=docker,html,css,vscode,github,git,spring,figma,sass" /><br>
-    <img src="https://skillicons.dev/icons?i=rust,nginx,python,java,githubactions,python,javascript,ts,pnpm" /><br>
-    <img src="https://skillicons.dev/icons?i=vite,styledcomponents,nextjs,bots,htmx,tailwind,react,nodejs,redux" /><br>
-</div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+| Направление | Технологии |
+| --- | --- |
+| **Frontend** | TypeScript, JavaScript, React, Next.js, Vue 3, Nuxt, HTML, CSS |
+| **Интерфейсы и данные** | TanStack Query, Zustand, Tailwind CSS, SCSS, CSS Modules, REST, WebSocket, JWT |
+| **Backend** | Kotlin, Spring Boot, PostgreSQL, Redis, Kafka, RabbitMQ, микросервисы |
+| **Инструменты** | Docker, Git, GitHub Actions, Vite, pnpm, ESLint, Prettier, Jest, Testcontainers |
